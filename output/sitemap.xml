@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://himaja-manjunatha.github.io/pages/</loc>
-  <lastmod>2020-04-25T16:40:00Z</lastmod>
+  <lastmod>2020-04-25T16:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://himaja-manjunatha.github.io/pages/archive.html</loc>
@@ -16,5 +16,9 @@
  <url>
   <loc>https://himaja-manjunatha.github.io/pages/categories/</loc>
   <lastmod>2020-04-25T16:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://himaja-manjunatha.github.io/pages/pages/</loc>
+  <lastmod>2020-04-25T16:52:00Z</lastmod>
  </url>
 </urlset>
