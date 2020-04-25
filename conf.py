@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Himaja Manjunatha"  # (translatable)
 BLOG_TITLE = "Home"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://himaja-manjunatha.github.io/pages/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+# BASE_URL = "https://himaja-manjunatha.github.io/pages/"
 BLOG_EMAIL = "himajmanjunath@gmail.com"
 BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 

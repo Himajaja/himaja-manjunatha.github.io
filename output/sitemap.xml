@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://himaja-manjunatha.github.io/pages/</loc>
   <lastmod>2020-04-25T16:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
+  <loc>https://himaja-manjunatha.github.io/pages/archive.html</loc>
+  <lastmod>2020-04-25T16:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://himaja-manjunatha.github.io/pages/categories/</loc>
   <lastmod>2020-04-25T16:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://himaja-manjunatha.github.io/pages/galleries/</loc>
   <lastmod>2020-04-25T16:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
-  <lastmod>2020-04-25T16:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://himaja-manjunatha.github.io/pages/listings/</loc>
   <lastmod>2020-04-25T16:20:00Z</lastmod>
  </url>
 </urlset>
