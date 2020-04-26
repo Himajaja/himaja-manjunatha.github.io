@@ -8,6 +8,10 @@
 
 .. topic :: About me 
 	
-	| I am a Second year undergraduate at Jain university, school of sciences. This is my first attempt at creating a website| This will allow me to express myself in a way I want to you all to see me.
+	 I am a Second year undergraduate at Jain university, school of sciences. This is my first attempt at creating a website.This will allow me to express myself in a way I want to you all to see me.
+
+Feel free to check my page out.
+
+
  
 
