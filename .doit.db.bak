@@ -61,3 +61,4 @@
 'render_posts:cache/pages/Drawings/index.html', (51712, 372)
 'render_sources:output/pages/Drawings/index.rst', (52224, 254)
 'render_pages:output/pages/Drawings/index.html', (54272, 3088)
+'copy_files:output/images/mothers.jpg', (57856, 260)
